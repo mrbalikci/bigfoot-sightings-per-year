@@ -12,3 +12,5 @@
 * HTML
 * JavaScrip 
 * D3 for Plotting 
+
+![alt text](https://github.com/mrbalikci/bigfoot-sightings-per-year/blob/master/snip.PNG)
