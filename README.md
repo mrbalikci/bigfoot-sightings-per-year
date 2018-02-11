@@ -5,7 +5,7 @@
 * JS code created for the plotting in d3
 * Flask API routes were created in Python
 
-# Toos Used
+# Tools Used
 * Python
 * SQLite
 * Flask
